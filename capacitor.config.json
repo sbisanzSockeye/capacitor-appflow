@@ -1,0 +1,10 @@
+{
+  "appId": "com.capacitor.test",
+  "appName": "capacitor-test",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
