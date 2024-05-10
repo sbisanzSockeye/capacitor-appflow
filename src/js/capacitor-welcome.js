@@ -57,7 +57,7 @@ window.customElements.define(
     </style>
     <div>
       <capacitor-welcome-titlebar>
-        <h1>Capacitor AppFlow</h1>
+        <h1>Capacitor AppFlow ....</h1>
       </capacitor-welcome-titlebar>
       <main>
         <p>
