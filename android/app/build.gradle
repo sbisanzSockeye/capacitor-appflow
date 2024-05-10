@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.capacitor.test"
+    namespace "com.capacitor.appflow"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.capacitor.test"
+        applicationId "com.capacitor.appflow"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -57,11 +57,11 @@ window.customElements.define(
     </style>
     <div>
       <capacitor-welcome-titlebar>
-        <h1>Om</h1>
+        <h1>Capacitor AppFlow</h1>
       </capacitor-welcome-titlebar>
       <main>
         <p>
-          .....AppFlow Capacitor makes it easy to build powerful apps for the app stores, mobile web (Progressive Web Apps), and desktop, all
+          Capacitor makes it easy to build powerful apps for the app stores, mobile web (Progressive Web Apps), and desktop, all
           with a single code base.
         </p>
         <h2>Getting Started AppFlow ....</h2>
